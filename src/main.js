@@ -6,7 +6,7 @@ import router from './router'
 import './assets/css/global.css'
 import 'element-ui/lib/theme-chalk/index.css';
 
-//导入element
+//导入element-ui
 import { Button, Form, FormItem, Input, Message } from 'element-ui'
 
 // 导入axios
